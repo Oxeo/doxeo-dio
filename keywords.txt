@@ -1,0 +1,18 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OxeoDio	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setSenderPin	KEYWORD2
+setReceiverPin	KEYWORD2
+read			KEYWORD2
+send			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
