@@ -96,6 +96,8 @@ void OxeoDio::send(unsigned long data) {
       digitalWrite(_senderPin, HIGH);
       delayMicroseconds(THIGH);
     }
+	
+	digitalWrite(_senderPin, LOW);
 }
 
 //http://homeeasyhacking.wikia.com/wiki
